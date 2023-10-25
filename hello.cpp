@@ -6,4 +6,5 @@ void hello(){
 	std::cout << "Hotfix 1 on master is different!\n";
   std::cout << "Hotfix 2 on release!\n";
   std::cout << "Hotfix 3 on release! not expecting conflicts\n";
+  std::cout << "Hotfix 4 on release! not expecting conflicts\n";
 }
